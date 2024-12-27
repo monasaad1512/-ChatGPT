@@ -27,8 +27,8 @@ A GUI-based weather application that fetches real-time weather data using the Op
 
 ## Technologies Used
 
-Programming Language: Python
+Programming Language: Python.
 Libraries/Tools:
-tkinter for GUI-based applications
-requests and BeautifulSoup for web scraping
-APIs for real-time data retrieval (e.g., currency and weather APIs)
+tkinter for GUI-based applications,
+requests and BeautifulSoup for web scraping,
+APIs for real-time data retrieval (e.g., currency and weather APIs).
